@@ -1,4 +1,4 @@
-<!--
+githu<!--
 <p>
   <a target="_blank" href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@github.readme?theme=moebooru"></a>
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
@@ -6,14 +6,16 @@
 -->
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-%2022.04.3%20LTS-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
-[![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
-[![](https://img.shields.io/badge/huawei-P20%20Pro-f45a00?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/cn/)
+[![](https://img.shields.io/badge/Arch%20Linux-%20x86_64-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
+[![](https://img.shields.io/badge/Windows%20Server-2022-0078d6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
+[![](https://img.shields.io/badge/huawei-P20%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/cn/)
 <!--
-[![](https://img.shields.io/badge/Mi-K40%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Mi-K40%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 -->
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
